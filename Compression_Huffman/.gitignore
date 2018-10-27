@@ -1,0 +1,22 @@
+# mac specs
+**.DS_Store
+**/exec*
+
+pdf/
+pdf
+
+
+**/exec
+
+**.o
+makefile
+arbreG/exec.c
+arbreG/question_1G
+
+arbre/exec.c
+arbre/question_1
+
+*/makefile
+
+liste/main.c
+liste/exec
