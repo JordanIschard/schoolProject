@@ -1,0 +1,305 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	background-color: rgb(200,200,200);
+	text-align:center;
+}
+
+.agendaMeca{
+	height: 50%;
+	border-collapse: collapse;
+	background-color: rgb(200,200,200);
+	box-shadow: 10px 10px 15px 10px rgb(50,50,50);
+	display:inline-block;
+	width: 800px;
+}
+
+.t1{
+	text-align: left;
+}
+
+.heure{
+	width: 3%;
+}
+
+.heurecourante{
+	background-color:rgb(180,180,180);
+	width: 10%;
+}
+
+.heurecourante:hover{
+	background-color: red;
+}
+
+.formation{
+	background-color: #BCB420;
+	width: 10%;
+}
+
+.formation:hover{
+	background-color:rgb(50,50,50);
+}
+
+.forma{
+	color:white;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.intervention{
+	background-color:#D2691E;	
+}
+
+.intervention:hover{
+	background-color: rgb(50,50,50);
+}
+
+.inter{
+	color:black;
+	background-color:transparent;
+	max-width: 100px;
+	border-color: transparent;
+}
+
+td,th{
+		text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color:rgb(70,70,70);
+	color: white;
+}
+
+.agenda{
+	color: transparent;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.afficherAgenda{
+	position:absolute;
+	left:2%;
+	max-width:255px;
+	margin-top:20px; 
+}
+
+p{
+	margin:7px;
+}
+
+.vide{
+	background-color: transparent;
+	border-left-color: transparent;
+	border-top-color: transparent;
+	box-shadow: transparent;
+}
+
+.pause{
+	background-color:rgb(80,80,80);
+	width: 10px;
+}
+
+.Pause{
+	color: white;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.desactiver{
+	background-color: grey;
+	width:300px;
+}
+
+.activer{
+	background-color:#FF4500;
+	width: 10px;
+}
+
+.activer:hover{
+	background-color: red;
+}
+
+
+.deco{
+	position: absolute;
+	right: -210px;
+	top:22px;
+	height: 40px;
+	border:none;
+	background-color:#FF4500;
+	color: white;
+	box-shadow: 0px 5px 20px 5px rgb(50,50,50);
+}
+
+.deco:hover{
+	transform : scale(1.1);
+	border-radius: 5px;
+	background-color: red;
+}
+
+.nom{
+	color:white;
+	position: absolute;
+	right: -200px;
+	top: 30%;
+}
+
+.logo{
+	color:white;
+	position: absolute;
+	 left:0px;
+    top:0px;
+    max-width:159px;
+    max-height:170px;
+}
+
+
+div{
+	position: absolute;
+	top: 180px;
+	left: 150px;
+}
+
+header{
+	position: absolute;
+	top:0px;
+	left: 0px;
+	background:#FF4500;
+	height:15%;
+	width:70%;
+	box-shadow: 0px 12px 15px 12px rgb(50,50,50);
+	border-right-style: solid;
+	border-right-width:575px;
+	border-color:rgb(70,70,70);
+}
+
+fieldset{
+	position: absolute;
+	top: 110px;
+	left: 30px;
+	background-color: rgb(200,200,200);
+	width: 600px;
+	text-align:left;
+	padding-bottom: 20px;
+}
+
+fieldset.gabarit{
+	top: 15px;
+	width: 1100px;
+	text-align:center;
+}
+
+fieldset.field2{
+	top:272px;
+}
+
+fieldset.field3{
+	top:490px;
+}
+
+legend {
+    padding: 0px 10px;
+    color: #313132;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+	letter-spacing: 1px;
+	font-size: 120%;
+	margin-bottom:2px;
+}
+
+input.bouton{
+	height: 30px;
+	border:none;
+	background-color: rgb(70,70,70);
+	color: white;
+	box-shadow: 0px 1px 10px 4px rgb(50,50,50);
+	margin-right: 2%;
+	margin-top: 0.5%;
+	margin-left: 2%;
+}
+
+input.bouton:hover{
+	transform : scale(1.1);
+	border-radius: 5px;
+	background-color: rgb(39, 33, 33);
+}
+
+label {
+    background-color:#FF4500;
+    color: #FFF;
+    display: inline-block;
+    width: 30%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    text-align: right;
+    letter-spacing: 1px;
+    border-radius: 3px;
+}
+
+label:hover{
+ font-weight:bold;
+}
+
+input:not([type="submit"]), select,textarea {
+    color: #414A51;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    margin-left: 1%;
+    width: 48%;
+    border: 1px solid #CCC;
+    font-size: 14px;
+    transition: all 0.25s linear;
+	box-shadow: 0 0 5px #202020;
+}
+
+select{
+	padding-left:2px;
+	letter-spacing: 1px;
+	width: 49.5%;	
+}
+
+input:focus:not([type="submit"]),select:focus,textarea:focus{
+	width:39%;
+	box-shadow:0 0 5px #db9a29;
+}
+
+h5{
+	position: absolute;
+	top: 470px;
+	left: 65px;
+	font-size: 18px;
+	width:290px;
+}
+h4{
+	position: absolute;
+	top: 110px;
+	left: 65px;
+	font-size: 18px;
+	width:290px;
+}
+h4.rech{
+	top: 300px;
+}
+
+table.interv{
+	position: absolute;
+	top:550px;
+}
+table.intervRech{
+	position: absolute;
+	top:350px;
+}
+table.interv3{
+}
+
+
+.end{
+	position: absolute;
+	top:605px;
+	left:892px;
+	width:456px;
+}
+
