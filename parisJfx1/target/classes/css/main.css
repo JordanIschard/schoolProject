@@ -1,0 +1,108 @@
+.root{
+    -fx-background-color: #f8fffd;
+}
+
+.boutonMenu {
+    -fx-background-color: #CAA131;
+    -fx-background-radius: 0;
+
+}
+
+.boutonMesParis {
+    -fx-background-color: #5ca0ca;
+    -fx-background-radius: 0;
+}
+
+.boutonParisOuverts {
+    -fx-background-color: #3cc93e;
+    -fx-background-radius: 0;
+}
+
+.boutonConnexion{
+    -fx-background-color: #caa131;
+    -fx-background-radius: 0;
+
+}
+
+.boutonDeco {
+    -fx-background-color: #eeda45;
+    -fx-background-radius: 0;
+
+}
+
+.boutonQuitter{
+    -fx-background-color: #ca4b3b;
+    -fx-background-radius: 0;
+
+}
+
+.boutonTousLesParis{
+    -fx-background-color: #7564ca;
+    -fx-background-radius: 0;
+}
+
+.boutonParier{
+    -fx-background-color: #ca5b9f;
+    -fx-background-radius: 0;
+}
+
+.boutonAjouter {
+    -fx-background-color: #ca3c4f;
+    -fx-background-radius: 0;
+}
+
+.boutonResultat {
+    -fx-background-color: #c2ca49;
+    -fx-background-radius: 0;
+}
+
+.boutonConfirmation {
+    -fx-background-color: #6bbeee;
+    -fx-background-radius: 0;
+}
+
+.boutonSupprimer{
+    -fx-background-color: #eea34b;
+    -fx-background-radius: 0;
+}
+
+
+.titreMenu {
+    -fx-background-color: #caa131;
+}
+
+.titreParisOuverts {
+    -fx-background-color: #3cc93e;
+}
+
+.titreParier {
+    -fx-background-color: #ca5b9f;
+}
+
+.titreMesParis{
+    -fx-background-color: #5ca0ca;
+}
+
+.titreTousLesParis {
+    -fx-background-color: #7564ca;
+}
+
+.titreAjouter {
+    -fx-background-color: #ca3c4f;
+}
+
+.titreConnexion{
+    -fx-background-color: #eeda45;
+}
+
+.titreResultat {
+    -fx-background-color: #c2ca49;
+}
+
+.erreur{
+    -fx-background-color: #ab362f;
+}
+
+.succes{
+    -fx-background-color: #5bab3e;
+}
