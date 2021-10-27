@@ -22,7 +22,8 @@ saisie soit utiliser la localisation actuelle de l’utilisateur.
 La map ainsi que la gestion des images non pas été implémenté car il n'arrive pas a accèder à l'appareil photo 
 et la clé pour la map ne fonctionne pas.
 
-=======
+----
+----
 
 # Compilation
 Utilisation de ANTLR pour créer une PMachine
@@ -62,7 +63,8 @@ Si vous voulez voir la table des symboles, le PCode généré et la mémoire à 
 le **debug** *(vous en aurez la possibilité lors de l'exécution)*.
 
 
-========
+----
+----
 
 # CudaProject
 
@@ -210,6 +212,7 @@ Je n'ai pas réussi à résoudre ce problème.
 
 
 -----
+----
 
 
 <style>
@@ -239,9 +242,9 @@ Les plus grandes difficultés ont été de comprendre le mécanisme de mise à j
 
 Au cas où, l'affichage ne soit pas bien sur votre appareil voici un ensemble de captures d'écrans prise sur le mien.
 
-![minipic](images/image1.jpg)
-![minipic](images/image2.jpg)
-![minipic](images/image3.jpg)
-![minipic](images/image6.jpg)
-![minipic](images/image4.jpg)
-![minipic](images/image5.jpg)
+![minipic](OpenGLProject/images/image1.jpg)
+![minipic](OpenGLProject/images/image2.jpg)
+![minipic](OpenGLProject/images/image3.jpg)
+![minipic](OpenGLProject/images/image6.jpg)
+![minipic](OpenGLProject/images/image4.jpg)
+![minipic](OpenGLProject/images/image5.jpg)
