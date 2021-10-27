@@ -242,8 +242,7 @@ Les plus grandes difficultés ont été de comprendre le mécanisme de mise à j
 
 Au cas où, l'affichage ne soit pas bien sur votre appareil voici un ensemble de captures d'écrans prise sur le mien.
 
-<img src="OpenGLProject/images/image1.jpg" alt="alt text" width="200" height="420">
-<img src="OpenGLProject/images/image2.jpg" alt="alt text" width="200" height="420">
-<img src="OpenGLProject/images/image3.jpg" alt="alt text" width="200" height="420">
-<img src="OpenGLProject/images/image4.jpg" alt="alt text" width="200" height="420">
-<img src="OpenGLProject/images/image5.jpg" alt="alt text" width="200" height="420">
+||||
+|:--:|:--:|:--:|
+|<img src="OpenGLProject/images/image1.jpg" alt="alt text" width="200" height="420"> | <img src="OpenGLProject/images/image2.jpg" alt="alt text" width="200" height="420"> | <img src="OpenGLProject/images/image3.jpg" alt="alt text" width="200" height="420">
+|<img src="OpenGLProject/images/image4.jpg" alt="alt text" width="200" height="420"> | <img src="OpenGLProject/images/image5.jpg" alt="alt text" width="200" height="420">
