@@ -242,7 +242,7 @@ Les plus grandes difficultés ont été de comprendre le mécanisme de mise à j
 
 Au cas où, l'affichage ne soit pas bien sur votre appareil voici un ensemble de captures d'écrans prise sur le mien.
 
-![minipic](OpenGLProject/images/image1.jpg)
+![minipic](OpenGLProject/images/image1.jpg | width=100)
 ![minipic](OpenGLProject/images/image2.jpg)
 ![minipic](OpenGLProject/images/image3.jpg)
 ![minipic](OpenGLProject/images/image6.jpg)
